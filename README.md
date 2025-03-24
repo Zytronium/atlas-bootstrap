@@ -52,11 +52,10 @@ is contained inside the `<header>` tag inside the body of all HTML files. The
 styles for this task are in the top section of [styles.css](styles.css) under
 the "Header Styles" comment.
 
-The navbar has 4 nav items: Home, Shop, Categories, and Contact. The Home link
-takes you to the main home page. The Shop link takes you to the Shop page. The
-Categories link is a dropdown menu that takes you to 3 different sections on
-the Shop page. The Contact link takes you to the Home page at a section about
-contact info. 
+The navbar has 3 nav items: Shop, Categories, and Contact. The Shop link takes
+you to the Shop page. The Categories link is a dropdown menu that takes you to
+three different sections on the Shop page. The Contact link takes you to the 
+the Contact page, where the user can find (fake) contact info for the company. 
 
 
 ## 2. Banner Section
