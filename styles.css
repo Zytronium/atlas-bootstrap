@@ -72,6 +72,10 @@
         border: none !important;
     }
 
+    .nav-item.rounded {
+        border-radius: 5px !important;
+    }
+
     .nav-item.border-left {
         border-top: 1px solid var(--dark) !important;
     }
