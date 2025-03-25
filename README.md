@@ -26,7 +26,7 @@ numbers will be formatted like "i, ii, iii, iv, etc." instead
 of "1, 2, 3, 4, etc.". "​" is a zero-width space)
 - [X] ​0. ReadMe
 - [X] ​1. Header* (Come back to this to add proper links when ready)
-- [ ] ​2. Banner Section
+- [X] ​2. Banner Section
 - [ ] ​3. Single Item Carousel
 - [ ] ​4. Multiple Item Carousel
 - [X] ​5. Drop Down Menus
@@ -63,30 +63,33 @@ project, but would if this were an actual shop. I mostly added it to give the
 Categories dropdown menu some room on the right.
 
 Each button/link has a hover and active color for both background color and text
-color, though the text color change is less noticable.
-
-The mobile version may be hard to navigate the dropdown menus while on Desktop
-due to the dropdown menus expanding on hover. Since I don't really have time to
-fix this and it wouldn't happen like this on an ACTUAL mobile device (unless
-they use a mouse on their phone for some reason, which is possible), I will not
-fix this. The workaround is to move your cursor along the edge of the dropdown
-menu to avoid expanding any long dropdown menus that you don't want to expand.
-There are other similar issues that I expect would occur on mobile, but again,
-I don't have time to fix them.
+color, though the text color change is less noticeable.
 
 I spent WAY too much time on this one.
 
 
 ## 2. Banner Section
-todo
+The banner section, between the navbar and the single item carousel and,
+contains some promotional text and a call to action button that takes the
+user to the shop page. The background is dimmed to make the text more readable,
+and the background conatins an aerial photo of an RC jet flying over a snowy
+field. This photo was taken by a member of a Discord server I'm in. At the
+time of writing this, I'm trying to figure out who originally posted it and if
+they'll allow me to use it in the final product. If I can't get permission,
+I have a few others I can try.
 
 
 ## 3. Single Item Carousel
-todo
+todo  
+The plan: A single-item carousel that scrolls between the different main
+shop categories.
 
 
 ## 4. Multiple Item Carousel
-todo
+todo  
+The plan: will have between several of these. At the very least, there will be
+many of these in the Shop page. I might also add one or two on the Home page.e
+
 
 
 ## 5. Drop Down Menus
@@ -102,17 +105,33 @@ on "Categories," then just click "Planes." However, if you're looking for a RTF
 (Ready-to-Fly)." From there, it will take you to the Shop page and scroll to
 the section you chose.
 
+The mobile version has issues with the dropdown menus since you can't really
+hover on mobile unless you connect a mouse (which is possible). Even so,
+I've disabled context menus expanding on mobile due to issues that causes on
+desktop windows small enough to trigger mobile CSS. Since the main categories
+are also links, clicking on them to expand the subcategory dropdowns only takes
+you to that category's section instead of expanding the dropdown. I will only
+fix this issue if I have time, though I have an idea for how to fix it.
+
+[//]: # (Note to self: the fix is to add an "All" subcategory for each category,
+and then only show that subcategory on small screens. Then, disable the links
+for the main categories on mobile.)
+
 
 ## 6. Section with an Aside
-todo
+todo  
+The plan: put the 2 multi-item carousels next to eachother on desktop and
+above/below eachother on tablet and mobile.
 
 
 ## 7. Free Section
-todo
+todo  
+The plan: Do the Shop page and the aside carousels on the Home page.
 
 
 ## 8. Footer
-todo
+todo  
+The plan: include copyright message and contact information.
 
 ----
 
@@ -128,7 +147,6 @@ should go here yet.
 Ideas:
 - Background image with quotes or a phrase about the company
 - Scrolling background images of RC Planes "from our satisfied cutomers"
-- idk need more ideas by my laptop's about to die so I need to commit to GitHub now
 
 **Shop Categories Single-Item Carousel**  
 A single-item carousel that scrolls through the different categories in the

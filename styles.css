@@ -62,10 +62,14 @@
     background-color: #222236 !important;
 }
 
-.dropdown:hover > .dropdown-menu {
-     display: block;
- }
+/* Desktop only */
+@media (width >= 768px) {
+    .dropdown:hover > .dropdown-menu {
+        display: block;
+    }
+}
 
+/* Mobile & Tablet */
 @media (width < 768px) {
     .nav-item {
         border-radius: 0 !important;
@@ -93,4 +97,16 @@
         border-bottom-left-radius: 5px !important;
         border-bottom-right-radius: 5px !important;
     }
+}
+
+/* Banner Section Styles */
+.banner {
+    background-image: url('images/Viper-1.jpg');
+    background-size: cover;
+    background-position: center bottom;
+    height: 66vh;
+}
+
+.bg-translucent-dark {
+    background-color: rgba(0, 0, 0, 0.333);
 }
