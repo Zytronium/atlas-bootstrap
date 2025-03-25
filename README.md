@@ -29,7 +29,7 @@ of "1, 2, 3, 4, etc.". "​" is a zero-width space)
 - [ ] ​2. Banner Section
 - [ ] ​3. Single Item Carousel
 - [ ] ​4. Multiple Item Carousel
-- [ ] ​5. Drop Down Menus
+- [X] ​5. Drop Down Menus
 - [ ] ​6. Section with an Aside
 - [ ] ​7. Free Section
 - [ ] ​8. Footer
@@ -90,7 +90,17 @@ todo
 
 
 ## 5. Drop Down Menus
-todo
+I completed this one before I even realized it was a task. The drop down menus
+are inside the nav bar. The "Categories" dropdown menu contains more dropdown
+menus inside it. Each item in the "Categories" dropdown menu can be clicked to
+go to that section, or hover over them to expand the dropdown menu of
+subcategories.
+
+For example, if you just want to look a planes, click or hover
+on "Categories," then just click "Planes." However, if you're looking for a RTF
+(Ready-to-Fly) kit specifically, hover over "Planes" and click "RTF
+(Ready-to-Fly)." From there, it will take you to the Shop page and scroll to
+the section you chose.
 
 
 ## 6. Section with an Aside
@@ -103,3 +113,40 @@ todo
 
 ## 8. Footer
 todo
+
+----
+
+## Website Layout plan
+###### Because I don't have a whiteboard or paper with no to sketch it out
+
+### Home Page
+**Nav Bar**  
+
+**Banner section**  
+Put something between the header navbar and the carousel. I haven't decided what
+should go here yet. 
+
+**Shop Categories Single-Item Carousel**  
+A single-item carousel that scrolls through the different categories in the
+Categories dropdown menu. (but not the subsections)
+
+**RC Planes Multi-Item Carousel** *_Time permitting_  
+A multi-item carousel that scrolls through some "popular" planes sold.
+
+**Another Shop Items Multi-Item Carousel** *_Time permitting_  
+A multi-item carousel that scrolls through some "popular" items sold
+(other than plane kits).
+
+**Footer**  
+Include Contact info, copyright, etc.
+
+### Shop Page
+**Nav Bar**  
+
+**Multi-item Carousels**  
+Include a multi-item carousel for each subcategory of each category of items.
+For example, in the "Planes" section, include a multi-item carousel for RTF planes,
+another for BNF planes, and so on. 
+
+**Footer**  
+Include Contact info, copyright, etc.
