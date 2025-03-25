@@ -117,14 +117,18 @@ todo
 ----
 
 ## Website Layout plan
-###### Because I don't have a whiteboard or paper with no to sketch it out
+###### Because I don't have a whiteboard or paper with me to sketch it out
 
 ### Home Page
 **Nav Bar**  
 
 **Banner section**  
 Put something between the header navbar and the carousel. I haven't decided what
-should go here yet. 
+should go here yet.  
+Ideas:
+- Background image with quotes or a phrase about the company
+- Scrolling background images of RC Planes "from our satisfied cutomers"
+- idk need more ideas by my laptop's about to die so I need to commit to GitHub now
 
 **Shop Categories Single-Item Carousel**  
 A single-item carousel that scrolls through the different categories in the
@@ -146,7 +150,7 @@ Include Contact info, copyright, etc.
 **Multi-item Carousels**  
 Include a multi-item carousel for each subcategory of each category of items.
 For example, in the "Planes" section, include a multi-item carousel for RTF planes,
-another for BNF planes, and so on. 
+another for BNF planes, and so on.
 
 **Footer**  
 Include Contact info, copyright, etc.
