@@ -52,10 +52,29 @@ is contained inside the `<header>` tag inside the body of all HTML files. The
 styles for this task are in the top section of [styles.css](styles.css) under
 the "Header Styles" comment.
 
-The navbar has 3 nav items: Shop, Categories, and Contact. The Shop link takes
-you to the Shop page. The Categories link is a dropdown menu that takes you to
-three different sections on the Shop page. The Contact link takes you to the 
-the Contact page, where the user can find (fake) contact info for the company. 
+The navbar has 5 nav items: Home, Shop, Categories, Contact, and Log In. The
+Home link takes you to the Home page. The Shop link takes you to the Shop page.
+The Categories button is a dropdown menu that takes you to several different
+sections on the Shop page, and each section in that dropdown menu has another
+dropdown menu for subsections. The Contact link takes you to the Contact section
+of the Home page, where the user can find (fake) contact info for the company.
+The Log In button is a dummy button that is not intended to work for this
+project, but would if this were an actual shop. I mostly added it to give the
+Categories dropdown menu some room on the right.
+
+Each button/link has a hover and active color for both background color and text
+color, though the text color change is less noticable.
+
+The mobile version may be hard to navigate the dropdown menus while on Desktop
+due to the dropdown menus expanding on hover. Since I don't really have time to
+fix this and it wouldn't happen like this on an ACTUAL mobile device (unless
+they use a mouse on their phone for some reason, which is possible), I will not
+fix this. The workaround is to move your cursor along the edge of the dropdown
+menu to avoid expanding any long dropdown menus that you don't want to expand.
+There are other similar issues that I expect would occur on mobile, but again,
+I don't have time to fix them.
+
+I spent WAY too much time on this one.
 
 
 ## 2. Banner Section
