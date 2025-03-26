@@ -67,6 +67,8 @@ color, though the text color change is less noticeable.
 
 I spent WAY too much time on this one.
 
+[//]: # (todo: Considder changing the dropdown for the "Planes" category. More info in the Dropdown task section.)
+
 
 ## 2. Banner Section
 The banner section, between the navbar and the single item carousel and,
@@ -76,7 +78,9 @@ and the background conatins an aerial photo of an RC jet flying over a snowy
 field. This photo was taken by a member of a Discord server I'm in. At the
 time of writing this, I'm trying to figure out who originally posted it and if
 they'll allow me to use it in the final product. If I can't get permission,
-I have a few others I can try.
+I have a few others I can try. Image credit is shown in either the bottom left 
+or bottom right corner, depending on if you are on mobile or desktop. On even
+smaller screens, the credit text gets smaller.
 
 
 ## 3. Single Item Carousel
@@ -124,6 +128,10 @@ fix this issue if I have time, though I have an idea for how to fix it.
 and then only show that subcategory on small screens. Then, disable the links
 for the main categories on mobile.)
 
+[//]: # (todo: Considder changing the dropdown for the "Planes" category. Change
+          the first dropdown when hovering over "Planes" to contain "completion
+          level," "skill level," and "type.")
+
 
 ## 6. Section with an Aside
 todo  
@@ -149,8 +157,8 @@ The plan: include copyright message and contact information.
 **Nav Bar**  
 
 **Banner section**  
-Put something between the header navbar and the carousel. I haven't decided what
-should go here yet.  
+Put something between the header navbar and the carousel. At the time of writing
+this, I haven't decided what should go here yet.  
 Ideas:
 - Background image with quotes or a phrase about the company
 - Scrolling background images of RC Planes "from our satisfied cutomers"

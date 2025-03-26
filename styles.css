@@ -111,6 +111,13 @@
     background-color: rgba(0, 0, 0, 0.333);
 }
 
+@media (width < 576px) {
+    .smaller-sm {
+        font-size: 0.6rem;
+    }
+}
+
+
 /* Shop Categories Single-Item Carousel Styles */
 .category-img {
     border-radius: 5rem;
