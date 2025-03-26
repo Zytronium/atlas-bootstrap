@@ -7,8 +7,8 @@
 ----
 
 In this project, I have to create a website relating to a hobby of mine, using
-Bootstrap. I can use minimal CSS, but it can't be structural (i.e. can't set
-margins, but can change color). I must make at least 1-2 fully functional web
+Bootstrap. I can use minimal CSS, but it can't be structural (i.e., can't set
+margins, but can change color). I must make at least 1–2 fully functional web
 pages that utilize the wireframes provided with minimal instruction. This
 project may be somewhat rushed, as I am falling behind on pace and starting to
 get burnt out on coding.
@@ -107,7 +107,7 @@ menus inside it. Each item in the "Categories" dropdown menu can be clicked to
 go to that section, or hover over them to expand the dropdown menu of
 subcategories.
 
-For example, if you just want to look a planes, click or hover
+For example, if you just want to look at planes, click or hover
 on "Categories," then just click "Planes." However, if you're looking for a RTF
 (Ready-to-Fly) kit specifically, hover over "Planes" and click "RTF
 (Ready-to-Fly)." From there, it will take you to the Shop page and scroll to
@@ -143,7 +143,8 @@ The plan: Do the Shop page and the aside carousels on the Home page.
 
 ## 8. Footer
 The footer includes a moto for AeroHobby RC, some quick links, contact info,
-and a copyright message.
+and a copyright message. On mobile, these sections are aligned vertically, and
+on desktop, horizontally.
 
 ----
 
