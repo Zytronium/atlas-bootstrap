@@ -31,6 +31,10 @@
     border-color: #151517 !important;
 }
 
+strong {
+    font-weight: bold; /* On Windows, this isn't needed, but it is on Linux for some reason. */
+}
+
 
 /* Header Styles */
 .navbar-nav .nav-link {
@@ -150,4 +154,8 @@
 /* Popular Products Multi-Item Carousel Styles */
 .rounded-xl {
     border-radius: 1rem !important;
+}
+
+.rounded-lg {
+    border-radius: 0.666rem !important;
 }

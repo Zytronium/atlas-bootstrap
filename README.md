@@ -28,7 +28,7 @@ of "1, 2, 3, 4, etc.". "​" is a zero-width space)
 - [X] ​1. Header* (Come back to this to add proper links when ready)
 - [X] ​2. Banner Section
 - [X] ​3. Single Item Carousel
-- [ ] ​4. Multiple Item Carousel
+- [X] ​4. Multiple Item Carousel
 - [X] ​5. Drop Down Menus
 - [ ] ​6. Section with an Aside
 - [ ] ​7. Free Section
@@ -94,10 +94,12 @@ takes you to that category in the Shop page.
 
 
 ## 4. Multiple Item Carousel
-todo  
-The plan: will have between several of these. At the very least, there will be
-many of these in the Shop page. I might also add one or two on the Home page.
+The multiple item carousel on the Home page displays 8 popular products. 
+Clicking on one of these should take you to that item's product page on an
+external website that actually sells it. The carousel displays 4 items on
+desktop, 2 on tablet, and 1 on mobile.
 
+I also plan to fill the Shop page with multiple item carousels.
 
 
 ## 5. Drop Down Menus
