@@ -110,3 +110,8 @@
 .bg-translucent-dark {
     background-color: rgba(0, 0, 0, 0.333);
 }
+
+/* Shop Categories Single-Item Carousel Styles */
+.category-img {
+    border-radius: 5rem;
+}

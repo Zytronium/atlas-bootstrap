@@ -80,9 +80,15 @@ I have a few others I can try.
 
 
 ## 3. Single Item Carousel
-todo  
+WIP  
 The plan: A single-item carousel that scrolls between the different main
-shop categories.
+shop categories. I planned to have the text display over a background image,
+however, this still needs to have those separate, so I will instead have a
+relevant image on the left side for each item.
+
+I have most of this working, but I still need to get the mobile version to work
+properly. I have spent like an hour trying to fix it with no luck, so I'm 
+skipping that for now.
 
 
 ## 4. Multiple Item Carousel
