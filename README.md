@@ -27,13 +27,13 @@ of "1, 2, 3, 4, etc.". "​" is a zero-width space)
 - [X] ​0. ReadMe
 - [X] ​1. Header* (Come back to this to add proper links when ready)
 - [X] ​2. Banner Section
-- [ ] ​3. Single Item Carousel
+- [X] ​3. Single Item Carousel
 - [ ] ​4. Multiple Item Carousel
 - [X] ​5. Drop Down Menus
 - [ ] ​6. Section with an Aside
 - [ ] ​7. Free Section
-- [ ] ​8. Footer
-- [X] ​9. Host to Github Pages
+- [X] ​8. Footer
+- [X] ​9. Host to GitHub Pages
 
 
 - [ ] **Everything Done ✓**
@@ -92,14 +92,11 @@ between having the image on the left and on the right on desktop/tablet, so
 that's what I did. On mobile, the image is on the bottom. Clicking the image
 takes you to that category in the Shop page.
 
-[//]: # (Todo: Either remove the hover and active colors for the carousel,
-          or make the entire item the link.)
-
 
 ## 4. Multiple Item Carousel
 todo  
 The plan: will have between several of these. At the very least, there will be
-many of these in the Shop page. I might also add one or two on the Home page.e
+many of these in the Shop page. I might also add one or two on the Home page.
 
 
 
@@ -145,8 +142,8 @@ The plan: Do the Shop page and the aside carousels on the Home page.
 
 
 ## 8. Footer
-todo  
-The plan: include copyright message and contact information.
+The footer includes a moto for AeroHobby RC, some quick links, contact info,
+and a copyright message.
 
 ----
 
