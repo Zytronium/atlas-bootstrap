@@ -80,15 +80,16 @@ I have a few others I can try.
 
 
 ## 3. Single Item Carousel
-WIP  
-The plan: A single-item carousel that scrolls between the different main
+This is a single-item carousel that scrolls between the different main
 shop categories. I planned to have the text display over a background image,
-however, this still needs to have those separate, so I will instead have a
-relevant image on the left side for each item.
+however, this still needs to have those separate, so instead, I have an image
+on the side for each item. I thought it would look neat if it alternated 
+between having the image on the left and on the right on desktop/tablet, so
+that's what I did. On mobile, the image is on the bottom. Clicking the image
+takes you to that category in the Shop page.
 
-I have most of this working, but I still need to get the mobile version to work
-properly. I have spent like an hour trying to fix it with no luck, so I'm 
-skipping that for now.
+[//]: # (Todo: Either remove the hover and active colors for the carousel,
+          or make the entire item the link.)
 
 
 ## 4. Multiple Item Carousel
