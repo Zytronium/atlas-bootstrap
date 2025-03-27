@@ -30,10 +30,13 @@ of "1, 2, 3, 4, etc.". "​" is a zero-width space)
 - [X] ​3. Single Item Carousel
 - [X] ​4. Multiple Item Carousel
 - [X] ​5. Drop Down Menus
-- [ ] ​6. Section with an Aside
-- [ ] ​7. Free Section
+- [X] ​6. Section with an Aside
+- [X] ​7. Free Section
 - [X] ​8. Footer
 - [X] ​9. Host to GitHub Pages
+
+
+- [ ] Additional Sections and Final Tweaks
 
 
 - [ ] **Everything Done ✓**
@@ -133,24 +136,21 @@ for the main categories on mobile.)
 
 
 ## 6 **&** 7. Free Section with an Aside
-todo  
-~~The original plan: put the 2 multi-item carousels next to eachother on desktop and
-above/below eachother on tablet and mobile, and then make the Shop page.~~
+This is the "RC Plane of the Month" section. On the primary section, it displays
+the RC plane's name and a description of the plane and why it's the RC plane of
+the month. Then, at the bottom of the primary section, there is a purchase
+button that takes you to the product page on the HobbyTown website. 
 
-The new plan: RC Plane of the Month. On the main section it will the rc plane's
-name, and a description of the plane and why it's the rc plane of the month.
-Then, there will be a button to take you to the product page at the bottom of
-the main section.
-
-For the aside, I will display, again, the plane's name,
-an image of it, and some stats on the plane like price, type, skill level, fuel
-type, wing span, etc.
+The aside displays a more complete product name, an image of it, and some
+product information like price, type, skill level, wingspan, etc. I tried to
+make the aside take up 45% of the width on tablet and 33% on desktop, but it
+wouldn't work.
 
 If time permits, I will also create the Shop page, which will be filled with
 multi-item carousels or just several large grids. Either way, products will be
 sorted by category, and each category and subcategory will have a title for
 that section. Clicking on any product will just take you to the product page
-on an external website that actually sells it. (Probably HobbyZone since that's
+on an external website that actually sells it. (Probably HobbyTown since that's
 where I got all the product images from)
 
 

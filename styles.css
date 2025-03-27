@@ -133,6 +133,17 @@ strong {
 }
 
 
+/* Free Section with Aside Styles */
+@media (width < 576px) {
+    .display-4 {
+        font-size: 2.5rem;
+    }
+}
+
+.aside-img {
+    border-radius: 2.5rem;
+}
+
 /* Shop Categories Single-Item Carousel Styles */
 .category-img {
     border-radius: 5rem;
