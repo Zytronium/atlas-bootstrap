@@ -79,12 +79,10 @@ The banner section, between the navbar and the single item carousel and,
 contains some promotional text and a call to action button that takes the
 user to the shop page. The background is dimmed to make the text more readable,
 and the background conatins an aerial photo of an RC jet flying over a snowy
-field. This photo was taken by a member of a Discord server I'm in. At the
-time of writing this, I'm trying to figure out who originally posted it and if
-they'll allow me to use it in the final product. If I can't get permission,
-I have a few others I can try. Image credit is shown in either the bottom left 
-or bottom right corner, depending on if you are on mobile or desktop. On even
-smaller screens, the credit text gets smaller.
+field. This photo was taken by a member of a Discord server I'm in. I got
+permission from the person who took the photo. Image credit is shown in either
+the bottom left or bottom right corner, depending on if you are on mobile or
+desktop. On even smaller screens, the credit text gets smaller.
 
 
 ## 3. Single Item Carousel
@@ -94,7 +92,7 @@ however, this still needs to have those separate, so instead, I have an image
 on the side for each item. I thought it would look neat if it alternated 
 between having the image on the left and on the right on desktop/tablet, so
 that's what I did. On mobile, the image is on the bottom. Clicking the image
-takes you to that category in the Shop page.
+would take you to that category in the Shop page, if I had made that page.
 
 
 ## 4. Multiple Item Carousel
@@ -116,8 +114,8 @@ subcategories.
 For example, if you just want to look at planes, click or hover
 on "Categories," then just click "Planes." However, if you're looking for a RTF
 (Ready-to-Fly) kit specifically, hover over "Planes" and click "RTF
-(Ready-to-Fly)." From there, it will take you to the Shop page and scroll to
-the section you chose.
+(Ready-to-Fly)." Assuming I had made the Shop page, this would take you to the
+Shop page and scroll to the section you chose.
 
 The mobile version has issues with the dropdown menus since you can't really
 hover on mobile unless you connect a mouse (which is possible). Even so,
@@ -142,8 +140,8 @@ the RC plane's name and a description of the plane and why it's the RC plane of
 the month. Then, at the bottom of the primary section, there is a purchase
 button that takes you to the product page on the HobbyTown website. 
 
-The aside displays a more complete product name, an image of it, and some
-product information like price, type, skill level, wingspan, etc. I tried to
+The aside displays the plane's name, an image of it, and some  product
+information like price, type, skill level, wingspan, etc. I tried to
 make the aside take up 45% of the width on tablet and 33% on desktop, but it
 wouldn't work.
 
