@@ -116,9 +116,8 @@ strong {
 
 /* Banner Section Styles */
 .banner {
-    background-image: url('images/Viper-1.jpg');
+    background: url('images/Viper-1.jpg') center bottom no-repeat;
     background-size: cover;
-    background-position: center bottom;
     height: 66vh;
 }
 
