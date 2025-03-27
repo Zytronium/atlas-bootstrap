@@ -36,15 +36,16 @@ of "1, 2, 3, 4, etc.". "​" is a zero-width space)
 - [X] ​9. Host to GitHub Pages
 
 
-- [ ] Additional Sections and Final Tweaks
+- [ ] Additional Sections
+- [X] Final Tweaks
 
 
-- [ ] **Everything Done ✓**
+- [X] **Everything Done ✓**
 
 ----
 
 # Tasks Sections Guide
-[//]: # (Todo: "For each task, please include a guide in your ReadMe
+[//]: # ("For each task, please include a guide in your ReadMe
           highlighting what section of your site should be graded. You dont
           need to have the sections in the order they are listed. You are also
           welcome to include more sections beyond what is listed!")
@@ -102,7 +103,7 @@ Clicking on one of these should take you to that item's product page on an
 external website that actually sells it. The carousel displays 4 items on
 desktop, 2 on tablet, and 1 on mobile.
 
-I also plan to fill the Shop page with multiple item carousels.
+I also planed to fill the Shop page with multiple item carousels if there was time.
 
 
 ## 5. Drop Down Menus
@@ -130,7 +131,7 @@ fix this issue if I have time, though I have an idea for how to fix it.
 and then only show that subcategory on small screens. Then, disable the links
 for the main categories on mobile.)
 
-[//]: # (todo: Considder changing the dropdown for the "Planes" category. Change
+[//]: # (todo: Consider changing the dropdown for the "Planes" category. Change
           the first dropdown when hovering over "Planes" to contain "completion
           level," "skill level," and "type.")
 
@@ -161,8 +162,8 @@ on desktop, horizontally.
 
 ----
 
-## Website Layout plan
-###### Because I don't have a whiteboard or paper with me to sketch it out
+## Initial Website Layout plan
+###### Because I didn't have a whiteboard or paper with me to draw it out, so I put it here
 
 ### Home Page
 **Nav Bar**  
@@ -172,7 +173,7 @@ Put something between the header navbar and the carousel. At the time of writing
 this, I haven't decided what should go here yet.  
 Ideas:
 - Background image with quotes or a phrase about the company
-- Scrolling background images of RC Planes "from our satisfied cutomers"
+- Scrolling background images of RC Planes taken "by our satisfied customers"
 
 **Shop Categories Single-Item Carousel**  
 A single-item carousel that scrolls through the different categories in the
@@ -192,7 +193,7 @@ Include Contact info, copyright, etc.
 **Nav Bar**  
 
 **Multi-item Carousels**  
-Include a multi-item carousel for each subcategory of each category of items.
+Include a multi-item carousel for each subcategory of every product category.
 For example, in the "Planes" section, include a multi-item carousel for RTF planes,
 another for BNF planes, and so on.
 
