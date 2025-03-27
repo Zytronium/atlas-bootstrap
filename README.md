@@ -132,15 +132,26 @@ for the main categories on mobile.)
           level," "skill level," and "type.")
 
 
-## 6. Section with an Aside
+## 6 **&** 7. Free Section with an Aside
 todo  
-The plan: put the 2 multi-item carousels next to eachother on desktop and
-above/below eachother on tablet and mobile.
+~~The original plan: put the 2 multi-item carousels next to eachother on desktop and
+above/below eachother on tablet and mobile, and then make the Shop page.~~
 
+The new plan: RC Plane of the Month. On the main section it will the rc plane's
+name, and a description of the plane and why it's the rc plane of the month.
+Then, there will be a button to take you to the product page at the bottom of
+the main section.
 
-## 7. Free Section
-todo  
-The plan: Do the Shop page and the aside carousels on the Home page.
+For the aside, I will display, again, the plane's name,
+an image of it, and some stats on the plane like price, type, skill level, fuel
+type, wing span, etc.
+
+If time permits, I will also create the Shop page, which will be filled with
+multi-item carousels or just several large grids. Either way, products will be
+sorted by category, and each category and subcategory will have a title for
+that section. Clicking on any product will just take you to the product page
+on an external website that actually sells it. (Probably HobbyZone since that's
+where I got all the product images from)
 
 
 ## 8. Footer
